@@ -118,3 +118,5 @@ const LandingPage = ({ navigation }) => {
 };
 
 export default LandingPage;
+
+/* Login Page */
